@@ -2,7 +2,7 @@
 
 :star: :star:
 
-:warning: This repo is under construction :warning:
+:coffee: This repo is under construction :coffee:
 
 I will never run out of ways to procrastinate my work and research.
 Just try me.
