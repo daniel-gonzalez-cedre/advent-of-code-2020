@@ -1,6 +1,7 @@
+# :christmas_tree: Advent of Code 2020 :christmas_tree:
+
 :star: :star:
 
-# :christmas_tree: Advent of Code 2020 :christmas_tree:
 :warning: This repo is under construction :warning:
 
 I will never run out of ways to procrastinate my work and research.
